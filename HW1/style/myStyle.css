@@ -1,0 +1,16 @@
+body { background-color: white;} 
+   
+div {
+    position: absolute;
+    width: 50%;
+    height: 250px;
+    color: antiquewhite;
+    background-color: rgb(66, 106, 66);
+}
+h1 { 
+    cursor: cell;
+    position: relative;
+    text-align: center;
+    top: 25%;
+    color : rgb(237, 237, 237)
+ }
